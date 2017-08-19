@@ -1,8 +1,10 @@
 ---
-title: "Reproducible Research - Project Assignment 1"
+title: "Reproducible Reserach - Project Assignment 1 :(Github Markdown)"
 author: "Sandesh G"
-date: "August 18, 2017"
-output: html_document
+date: "August 19, 2017"
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
